@@ -1,0 +1,5 @@
+# Ignore these folders
+.ipynb_checkpoints/
+
+# Ignore artifacts
+*.pyc
