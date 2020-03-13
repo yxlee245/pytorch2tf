@@ -1,6 +1,6 @@
 # Ignore these folders
 .ipynb_checkpoints/
-pytorch2tf-env/
+*-env/
 
 # Ignore artifacts
 *.pyc
