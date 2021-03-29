@@ -40,7 +40,7 @@ Pillow==6.2.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.2
 protobuf==3.11.1
-Pygments==2.5.2
+Pygments==2.7.4
 pyrsistent==0.15.6
 python-dateutil==2.8.1
 pywin32==227
