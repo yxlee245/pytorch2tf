@@ -28,7 +28,7 @@ mistune==0.8.4
 more-itertools==8.0.2
 nbconvert==5.6.1
 nbformat==4.4.0
-notebook==6.0.2
+notebook==6.4.12
 numpy==1.17.4
 onnx==1.6.0
 onnx-tf==1.5.0
