@@ -39,7 +39,7 @@ pickleshare==0.7.5
 Pillow==6.2.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.2
-protobuf==3.11.1
+protobuf==3.18.3
 Pygments==2.5.2
 pyrsistent==0.15.6
 python-dateutil==2.8.1
